@@ -29,9 +29,4 @@
 <h3 align="left">Support:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=war3sha&show_icons=true&locale=en&layout=compact" alt="war3sha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=war3sha&show_icons=true&locale=en" alt="war3sha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=war3sha&" alt="war3sha" /></p>
 <img https://github.com/marketplace/actions/snake-game-generator-from-github-contributions/>
