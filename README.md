@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **wareeshaaaa88@gmail.com**
 
-- ⚡ Fun fact **I am good at cloning**
+- ⚡ Fun fact **I am good at cloning coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
